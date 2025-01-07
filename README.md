@@ -23,7 +23,7 @@ if __name__ == "__main__":
     print ("" .join(random.sample(T, PassLen)))
     
 ```
-## Code STR_CHCKR
+## STR_CHCKR
 ```
 import string
 
